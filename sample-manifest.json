@@ -1,0 +1,12 @@
+{
+  "export_job_id": "e48ca668-de9e-49f8-943f-ff1d587c6f75",
+  "id_short": 448944,
+  "published_at": "2026-04-12T19:39:57Z",
+  "repo_name": "restaurant-verified-email-access-in-new-hampshire-us-sample-448944",
+  "sample_asset_name": "beamstation_448944_restaurants-us-nh_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/448944/beamstation_448944_restaurants-us-nh_SAMPLE_DIST.csv",
+  "sample_records": 10,
+  "sample_sha256": "402c64099f016560d8e269469373321f7e8f09e123f37b2050dfd3b7c646018c",
+  "sample_size_bytes": 59597,
+  "total_records": 630
+}
