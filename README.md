@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in New Hampshire, US
 
-> Free BeamStation sample export with 85 rows and masked direct-contact fields.
+> Free BeamStation sample export with 65 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `448944` |
 | Location | New Hampshire |
 | Category | Restaurants |
-| Full dataset size | 853 records |
-| Free sample size | 85 records (9.96%) |
-| Last export | 2026-04-15T03:10:56.567333+00:00 |
+| Full dataset size | 656 records |
+| Free sample size | 65 records (9.91%) |
+| Last export | 2026-04-22T08:30:36.790940+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-new-hampshire-us-sample-448944/releases/download/sample-latest/beamstation_448944_restaurants-us-nh_SAMPLE_DIST.csv) |
 
 ## What is in this sample
